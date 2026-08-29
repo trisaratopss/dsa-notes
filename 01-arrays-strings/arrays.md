@@ -21,5 +21,5 @@ Good:
 - 
 
 ## Problems solved
-- [two-sum] 
+- [two sum, best time to buy and sell stock, contains duplicate] 
 
