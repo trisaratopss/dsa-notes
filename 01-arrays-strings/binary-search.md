@@ -14,5 +14,5 @@
 - 
 
 ## Problems solved
-- [ ] 
+- [binary search, search insert position] 
 
