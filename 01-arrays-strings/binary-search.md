@@ -14,5 +14,6 @@
 - 
 
 ## Problems solved
-- [binary search, search insert position, first bad version] 
+- [binary search, search insert position, first bad version, find minimum in rotated sorted array, 	
+search in rotated sorted array] 
 
